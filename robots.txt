@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ak7830232624-ai.github.io/sitemap.xml
